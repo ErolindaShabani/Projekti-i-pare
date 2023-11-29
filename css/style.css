@@ -1,0 +1,13 @@
+.description{
+    width: 150px;
+    height: 150px;
+    background-color: antiquewhite;
+    /* border-top: 10px outset blue; */
+    border: 2px solid blue;
+    /* border-radius: 10px 0 ; */
+    padding:5px;
+   
+}
+.first{
+     margin: 50px;
+}
